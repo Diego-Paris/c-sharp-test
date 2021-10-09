@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Hipep\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Hipep\\.nuget\\packages"
+    ]
+  }
+}
